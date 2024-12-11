@@ -1,0 +1,14 @@
+node_modules
+.webp
+/src
+.DS_Store
+.vscode
+gulp
+src
+инфо.md
+gulpfile.js
+package-lock.json
+package.json
+readme.md
+webpack.config.js
+docs
